@@ -4,4 +4,4 @@ This repository contains references to self-hosted Python projects and scripts f
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project Name | Description 
 --------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-💻 [Jober](https://github.com/cqawam/Jober) | This Python script automates the process of scraping job listings from the [iSecJobs](https://isecjobs.com/) website. 
+[💻 Jober](https://github.com/cqawam/Jober) | This Python script automates the process of scraping job listings from the [iSecJobs](https://isecjobs.com/) website. 
